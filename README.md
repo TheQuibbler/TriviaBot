@@ -5,6 +5,10 @@ Credit
 
     Code was fixed, so it works for TWW.
 
+Installation
+
+    Download the repo and put it in a folder with the name "TriviaBot", inside the Addon folder
+
 TriviaBot allows the user to host quiz games for other players.
 Spamming it in /say in crowded places or /general is not a good idea,
 but Blizzard's spam prevention makes it alot harder to abuse it that way currently.
