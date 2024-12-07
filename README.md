@@ -1,3 +1,10 @@
+Credit
+
+    Addon was taken from https://www.curseforge.com/wow/addons/trivia-bot
+    Where it had not been updated since 2019. 
+
+    Code was fixed, so it works for TWW.
+
 TriviaBot allows the user to host quiz games for other players.
 Spamming it in /say in crowded places or /general is not a good idea,
 but Blizzard's spam prevention makes it alot harder to abuse it that way currently.
@@ -17,9 +24,3 @@ Other Commands
     /trivia help will list other commands.
     !tb help whispered to a game host will list other whisper commands.
 
-Credit
-
-    Addon was taken from https://www.curseforge.com/wow/addons/trivia-bot
-    Where it had not been updated since 2019. 
-
-    Code was fixed, so it works for TWW.
