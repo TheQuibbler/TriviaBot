@@ -28,3 +28,12 @@ Other Commands
     /trivia help will list other commands.
     !tb help whispered to a game host will list other whisper commands.
 
+Quizzes
+
+    With version 2.8.0 (which this version is based on)
+    TriviaBot no longer contains pre-packaged Quizzes with the main download!
+
+    Quizzes are instead coming in the form of separate Load on Demand addons called Quiz plugins.
+
+    I've uploaded "TriviaBot_QuestionsWoW1" as an example of a quizz package, these quiz packages, need to be put directly in the AddOn Folder, and not inside TriviaBot.
+    Make a copy of this folder, and edit the TriviaBot_Questions.toc and TriviaQuestions.lua, leave core.lua as it is.
